@@ -10,8 +10,10 @@ Training samples are artificially synthesized to add masks to them.
 
 ## Review Results:
 You can run **review_results.py** after cloning this repository. This will open your camera and do a live test on your smiley face. 
-<!-- ## Model Architecture:
+
+### **Currently working on developing MobileNetV2 model for the face mask recognition task** 
+## Model Architecture:
 ![model architecture](./MobileNetV2_Architecture.jpg)
 
-**MobileNetV2**, developed by Google, is used for the training process. -->
+**MobileNetV2**, developed by Google, is used for the training process.
 
